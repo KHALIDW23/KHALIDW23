@@ -30,41 +30,52 @@ I am a passionate Network & Security student from Bangladesh 🇧🇩 with a str
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://www.cplusplus.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cplusplus/cplusplus.svg" alt="c++" height="42px"/> </a> 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"></a>
-<a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" alt="mysql" height ="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/visual-studio-code/visual-studio-code.svg" alt="vscode" height='42px'/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/linux/linux.svg" alt="linux" height='42px'/> </a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://www.assembly.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/assembly/assembly.svg" alt="assembly" height="42px"/> </a>
-<a href="https://www.wireshark.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/wireshark/wireshark.svg" alt="wireshark" height="42px"/> </a>
-<a href="https://nmap.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/nmap/nmap.svg" alt="nmap" height="42px"/> </a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30"/>
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly" height="30"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" height="30"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" height="30"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"/>
 
 <br>
 
 
 ### 📊 Github Stats
-<a href='https://github.com/KHALIDW23'>
+
+<p align="center">
+  <a href="https://github.com/KHALIDW23">
+    <img src="https://github-readme-stats.vercel.app/api?username=KHALIDW23&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KHALIDW23&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KHALIDW23&theme=dark&hide_border=true" alt="GitHub Streak" width="90%"/>
+</p>
+
+### 🛠️ Featured Projects
+
+<div align="center">
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=KHALIDW23&show_icons=true&theme=react&border_color=61dafb&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHALIDW23&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-1]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-1])
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-2]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-2])
 
-</a>
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-3]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-3])
+[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-4]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-4])
 
-<br>
+[![Repo 5](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-5]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-5])
+[![Repo 6](https://github-readme-stats.vercel.app/api/pin/?username=KHALIDW23&repo=[REPO-6]&theme=dark&hide_border=true)](https://github.com/KHALIDW23/[REPO-6])
 
-### 🛠️ My Projects
-<a href="https://github.com/KHALIDW23/[PROJECT-1]" target="_blank"> <img alt="project1" src="./projects/project1.svg" height="68" align="left"> </a>
-<a href="https://github.com/KHALIDW23/[PROJECT-2]" target="_blank"> <img alt="project2" src="./projects/project2.svg"  height="68" align="left"> </a>
-<a href="https://github.com/KHALIDW23/[PROJECT-3]" target="_blank"> <img alt="project3" src="./projects/project3.svg" height="68" align="left"> </a>
-<a href="https://github.com/KHALIDW23/[PROJECT-4]" target="_blank"> <img alt="project4" src="./projects/project4.svg" height="68" align="left"> </a>
-<a href="https://github.com/KHALIDW23/[PROJECT-5]" target="_blank"> <img alt="project5" src="./projects/project5.svg" height="68" align="left"> </a>
-<a href="https://github.com/KHALIDW23/[PROJECT-6]" target="_blank"> <img alt="project6" src="./projects/project6.svg" height="68" align="left"> </a>
+</div>
 
-<br>
+<p align="center">
+  <a href="https://github.com/KHALIDW23?tab=repositories">
+    <b>View all repositories →</b>
+  </a>
+</p>
 <br>
 <br>
 <br>
