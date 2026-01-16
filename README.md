@@ -5,9 +5,9 @@
 </h1>
 
 ## Hey 👋, I'm Khalid Waleed Akas!
-<a href='https://www.linkedin.com/in/khalid-waleed-akas-9729331b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.instagram.com/khgd.2?igsh=ejd3MGgyMnQwd2Q0&utm_source=qr'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
-<a href='https://github.com/KHALIDW23'><img alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-waleed-akas-9729331b5)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/khgd.2)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/KHALIDW23)
 
 
 I am a passionate Network & Security student from Bangladesh 🇧🇩 with a strong interest in cybersecurity, network protocols, and system security. I love exploring networking technologies 🔒 and building secure systems 🛡️. 
