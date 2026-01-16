@@ -42,6 +42,14 @@ I am a passionate Network & Security student from Bangladesh 🇧🇩 with a str
 
 <br>
 
+## 📜 Certifications
+View my complete certification portfolio: [certificates repository](https://github.com/KHALIDW23/certificates)
+
+- Cisco Cybersecurity Certified
+- Cisco Networking (Packet Tracer) Certified
+- Cisco IoT & Emerging Technologies Certified
+- Cisco AI & Data Science Certified
+
 
 ### 📊 Github Stats
 
