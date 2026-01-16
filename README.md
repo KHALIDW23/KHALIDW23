@@ -42,13 +42,34 @@ I am a passionate Network & Security student from Bangladesh 🇧🇩 with a str
 
 <br>
 
-## 📜 Certifications
+  ## 📜 Professional Certifications
+  
 View my complete certification portfolio: [certificates repository](https://github.com/KHALIDW23/certificates)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cybersecurity" height="30"/>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Packet Tracer" height="30"/>
+  <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" height="30"/>
+  <img src="https://img.shields.io/badge/Cisco_IoT-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="IoT" height="30"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco_AI-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="AI" height="30"/>
+  <img src="https://img.shields.io/badge/Cisco_Data_Science-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Data Science" height="30"/>
+  <img src="https://img.shields.io/badge/Digital_Transformation-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Digital Transformation" height="30"/>
+</p>
 
 - Cisco Cybersecurity Certified
 - Cisco Networking (Packet Tracer) Certified
-- Cisco IoT & Emerging Technologies Certified
+- Cisco IoT & Emerging Technologies Certified 
 - Cisco AI & Data Science Certified
+
+### 🎓 Completed Courses:
+1. **Introduction to Cybersecurity** - Cisco Networking Academy
+2. **Getting Started with Cisco Packet Tracer** - Cisco Networking Academy  
+3. **Exploring Networking with Cisco Packet Tracer** - Cisco Networking Academy
+4. **Exploring IoT with Cisco Packet Tracer** - Cisco Networking Academy
+5. **Introduction to Modern AI** - Cisco Networking Academy
+6. **Introduction to Data Science** - Cisco Networking Academy
+7. **Introduction to IoT and Digital Transformation** - Cisco Networking Academy
 
 
 ### 📊 Github Stats
