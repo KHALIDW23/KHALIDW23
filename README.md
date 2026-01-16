@@ -72,11 +72,3 @@ I am a passionate Network & Security student from Bangladesh 🇧🇩 with a str
 <br>
 
 ---
-
-**Note**: This template uses icons from [rahul-jha98/github_readme_icons](https://github.com/rahul-jha98/github_readme_icons). You'll need to:
-1. Create a `projects` folder with SVG images for your projects
-2. Update the project links with your actual repository URLs
-3. Replace `[PROJECT-1]` to `[PROJECT-6]` with your actual project names
-4. Consider creating or finding suitable SVG images for your network/security projects
-
-You can find networking/security related icons or create your own project banners using tools like Figma or Canva.
