@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-waleed-akas-9729331b5)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/khgd.2)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/KHALIDW23)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=Snapchat&logoColor=black)](https://snapchat.com/t/DdBOB0J3)
 
 
 I am a passionate Network & Security student from Bangladesh 🇧🇩 with a strong interest in cybersecurity, network protocols, and system security. I love exploring networking technologies 🔒 and building secure systems 🛡️. 
