@@ -11,6 +11,7 @@
 [![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?style=flat&logo=Snapchat&logoColor=black)](https://snapchat.com/t/DdBOB0J3)
 
 
+
 I am a passionate Network & Security student from Bangladesh 🇧🇩 with a strong interest in cybersecurity, network protocols, and system security. I love exploring networking technologies 🔒 and building secure systems 🛡️. 
 <br/>
 <br/>
@@ -40,7 +41,7 @@ I am a passionate Network & Security student from Bangladesh 🇧🇩 with a str
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="30"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="30"/>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <br>
 
   ## 📜 Professional Certifications
